@@ -1532,5 +1532,9 @@
     {
         "name": "Visual Blue",
         "colors": ["#003d4d", "#00c996"]
+    },
+    {
+        "name": "Black Purple fluo",
+        "colors": ["#130f02", "#6b02fd"]
     }
 ]
